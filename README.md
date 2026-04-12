@@ -3,7 +3,7 @@
 **ai engineer** building real-time voice systems, autonomous agents, and rag pipelines.
 
 🔧 building a real-time ai voice platform at **airtym** (deepgram · groq · elevenlabs)  
-🪓 built **[axe](https://github.com/sarthexe/axe)** — an autonomous cli coding agent with tiered model routing  
+🪓 built **[axe](https://github.com/sarthexe/Axe_cli_agent)** — an autonomous cli coding agent with tiered model routing  
 🏥 previously built clinical rag assistants and fraud detection systems at **neolytix**  
 🎌 learning japanese — targeting jlpt n5
 
