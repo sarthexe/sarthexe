@@ -1,19 +1,42 @@
 # hey, i'm sarthak 👋
 
-**ai engineer** building real-time voice systems, autonomous agents, and rag pipelines.
+> ai engineer. terminal enjoyer. occasional bug creator.
 
-🔧 building a real-time ai voice platform at **airtym** (deepgram · groq · elevenlabs)  
-🪓 built **[axe](https://github.com/sarthexe/Axe_cli_agent)** — an autonomous cli coding agent with tiered model routing  
-🏥 previously built clinical rag assistants and fraud detection systems at **neolytix**  
-🎌 learning japanese — targeting jlpt n5
+i build things that talk, think, search, and occasionally break in fascinating ways.
 
----
-
-```
-python · c/c++ · fastapi · postgresql · pgvector · pytorch · langchain · docker · websockets · azure
-```
+currently obsessed with **real-time ai**, **voice systems**, **autonomous agents**, and **rag**.
 
 ---
 
-[![linkedin](https://img.shields.io/badge/-sarthax11-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthax11)
-[![email](https://img.shields.io/badge/-sarthakmaurya04-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sarthakmaurya04@gmail.com)
+### what i'm up to
+
+🔴 **building at airtým**  
+real-time ai voice systems powered by `deepgram` · `groq` · `elevenlabs`
+
+🪓 **built axe**  
+an autonomous cli coding agent with **tiered model routing**  
+→ [check it out](https://github.com/sarthexe/Axe_cli_agent)
+
+🏥 **previously at neolytix**  
+worked on **clinical rag assistants**, **ai agents**, and **fraud detection systems**
+
+🎌 **currently learning japanese**  
+goal: `JLPT N5`  
+今、日本語を勉強しています。
+
+---
+
+### things i like building
+
+```text
+voice agents
+       ↓
+speech → reasoning → tools → speech
+
+rag systems
+       ↓
+retrieve → rerank → generate → evaluate
+
+autonomous agents
+       ↓
+plan → act → observe → repeat
