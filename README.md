@@ -6,14 +6,17 @@ i build **real-time ai voice systems, autonomous agents, and rag pipelines**.
 
 ### currently
 
-🔴 building real-time ai voice systems at **airtym**  
+🏥 Currently at **neolytix**  
+`clinical rag assistants` · `ai agents` · `PHI-Gateway`
+
+🔴 built real-time ai voice systems at **airtym**  
 `deepgram` · `groq` · `elevenlabs`
+
+🛡️ created **[code-airlock](https://github.com/sarthexe/code-airlock)** 
 
 🪓 built **[axe](https://github.com/sarthexe/Axe_cli_agent)**  
 autonomous cli coding agent with tiered model routing
 
-🏥 previously at **neolytix**  
-clinical rag assistants · ai agents · fraud detection
 
 🎌 learning japanese → `JLPT N5`
 
